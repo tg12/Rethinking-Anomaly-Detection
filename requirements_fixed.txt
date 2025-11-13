@@ -1,0 +1,9 @@
+# Fixed BWGNN Requirements
+
+torch>=2.0.0
+numpy>=1.21.0
+scipy>=1.7.0
+sympy>=1.9
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+networkx>=2.6.0
